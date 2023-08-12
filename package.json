@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.4.3",
+    "request": "^2.88.2",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
